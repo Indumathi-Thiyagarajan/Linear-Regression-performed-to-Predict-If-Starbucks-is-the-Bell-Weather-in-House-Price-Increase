@@ -1,0 +1,2 @@
+# Linear Regression between House Price and Startbucks Location
+ According to new research by Harvard University researchers, Starbucks comes by its reputation as the bellwether of gentrification: When the coffee giant colonizes a neighborhood, home prices tend to jump. This research shows that one new Starbucks predicted an extra 0.54 percent rise in local home prices. We are performing Linear Regression to confirm the statement
